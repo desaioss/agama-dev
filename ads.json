@@ -13,9 +13,7 @@
             "test"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "co.myorg": {}
-        },
+        "configs": {},
         "name": "test-agama-project"
     }
 }
